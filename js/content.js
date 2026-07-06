@@ -3,7 +3,7 @@ const CONTENT = [
   {
     id: "train-ride-to-heaven",
     type: "poem",
-    title: "A Train Ride to Heaven",
+    title: "A Train Ride to heaven",
     thumb: "",
     size: "wide",
     excerpt: "a rough swallow, my heart pounds.",
@@ -33,7 +33,7 @@ const CONTENT = [
   {
     id: "monster-poem",
     type: "poem",
-    title: "Monster",
+    title: "monster",
     thumb: "",
     size: "wide",
     excerpt: "i hope you realize why i cared at all.",
@@ -41,13 +41,13 @@ const CONTENT = [
     image: ""
   },
   {
-    id: "market-photo",
-    type: "photo",
-    title: "Market Street",
+    id: "porch-swing",
+    type: "poem",
+    title: "porch swing",
     thumb: "",
     size: "large",
-    excerpt: "Color and motion, held still.",
-    body: "<p>Placeholder caption for Market Street photograph.</p>",
+    excerpt: "the sun shines bright,",
+    body: "<p>the sun shines bright,</p><p>wind whistling through the gentle limbs of trees</p><p>i sit alone on this tired, old swing,</p><p>hoping for anything.</p><p>hoping for a hug, a smile, a glance.</p><p>hoping that you'll hate me no longer and instead smile and laugh,</p><p>throwing jokes at each other,</p><p>being each other's other half.</p><p>you took everything when you left, from my passion to my strength.</p><p>i hope your self-established solace treats you well.</p>",
     image: ""
   },
   {
