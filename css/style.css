@@ -189,6 +189,26 @@ h1, h2, h3 {
   padding: 8px;
 }
 
+.card__preview {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  background: #f7f7f7;
+}
+
+.card__preview p {
+  margin: 0;
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--color-text);
+  line-height: 1.4;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+
 .card__type {
   position: absolute;
   top: 8px;

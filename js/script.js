@@ -7,17 +7,20 @@
   const modalBody = document.getElementById("modal-body");
 
   function cardMarkup(item) {
+    const hasTextPreview = !item.thumb && item.type !== "photo";
     const media = item.thumb
       ? `<img class="card__thumb" src="${item.thumb}" alt="${item.title}">`
+      : hasTextPreview
+      ? `<div class="card__preview"><p>${item.excerpt}</p></div>`
       : `<div class="card__placeholder"><span>${item.title}</span></div>`;
+    const captionExcerpt = hasTextPreview ? "" : `<p class="card__excerpt">${item.excerpt}</p>`;
 
     return `
       <article class="card card--${item.size}" data-id="${item.id}" tabindex="0" role="button" aria-label="Open ${item.title}">
-        <span class="card__type card__type--${item.type}">${item.type}</span>
         ${media}
         <div class="card__caption">
           <h3 class="card__title">${item.title}</h3>
-          <p class="card__excerpt">${item.excerpt}</p>
+          ${captionExcerpt}
         </div>
       </article>
     `;
