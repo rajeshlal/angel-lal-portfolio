@@ -21,12 +21,12 @@ const CONTENT = [
     image: ""
   },
   {
-    id: "pearly-whites",
+    id: "hatred-poem",
     type: "poem",
-    title: "pearly whites",
+    title: "hatred",
     thumb: "",
     size: "wide",
-    excerpt: "how is it",
+    excerpt: "how is it?",
     body: "<p>how is it</p><p>that you could hate the people</p><p>who gave birth to you,</p><p>held you in their wombs,</p><p>nestled you close,</p><p>so you wouldn't feel cold</p><p>and with your hatred,</p><p>you kill them,</p><p>curse them,</p><p>and push them into the cold themselves</p><p>then, how could you claim to love them?</p>",
     image: ""
   },
@@ -51,13 +51,13 @@ const CONTENT = [
     image: ""
   },
   {
-    id: "documentary-analysis",
-    type: "analysis",
-    title: "Truth and the Documentary Frame",
+    id: "pearly-whites",
+    type: "poem",
+    title: "pearly whites",
     thumb: "",
     size: "small",
-    excerpt: "What the camera includes, and what it leaves out.",
-    body: "<p>Placeholder analysis text about documentary framing.</p>",
+    excerpt: "they laugh,",
+    body: "<p>they laugh,</p><p>teeth flashing like sharks,</p><p>pearly white in the avarice-filled room.</p><p>they shouldn't.</p><p>their victory is that of cowards,</p><p>of those who hate their own.</p><p>love doesn't cross their minds,</p><p>only hatred and power.</p>",
     image: ""
   }
 ];
