@@ -31,13 +31,13 @@ const CONTENT = [
     image: ""
   },
   {
-    id: "winter-poem",
+    id: "monster-poem",
     type: "poem",
-    title: "Winter Correspondence",
+    title: "Monster",
     thumb: "",
-    size: "small",
-    excerpt: "Letters that never quite arrive.",
-    body: "<p>Placeholder poem text for Winter Correspondence.</p>",
+    size: "wide",
+    excerpt: "i hope you realize why i cared at all.",
+    body: "<p>i hope you realize why i cared at all.</p><p>i hope you realize i ripped out my heart,</p><p>splattering blood all over the walls,</p><p>and placed it in your hands.</p><p>you laughed at the gaping hole in my chest,</p><p>and swallowed my heart whole.</p>",
     image: ""
   },
   {
