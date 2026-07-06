@@ -1,13 +1,13 @@
 // js/content.js
 const CONTENT = [
   {
-    id: "rain-poem",
+    id: "train-ride-to-heaven",
     type: "poem",
-    title: "Rain",
+    title: "A Train Ride to Heaven",
     thumb: "",
-    size: "small",
-    excerpt: "The city exhales in gray, steam rising off warm stone.",
-    body: "<p>The city exhales in gray,<br>steam rising off warm stone.</p><p>This is placeholder body text for a poem — replace with the full piece.</p>",
+    size: "wide",
+    excerpt: "a rough swallow, my heart pounds.",
+    body: "<p>a rough swallow, my heart pounds.</p><p>i promised, though.</p><p>that i would trust in my lord to guide me through the uncertainty i face.</p><p>it is not traditional for me, to blindly place my fate in the universe's hands.</p><p>yet here i stand today, wracked with nerves yet full of faith.</p>",
     image: ""
   },
   {
