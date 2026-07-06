@@ -3,7 +3,7 @@ const CONTENT = [
   {
     id: "train-ride-to-heaven",
     type: "poem",
-    title: "A Train Ride to heaven",
+    title: "a train ride to heaven",
     thumb: "",
     size: "wide",
     excerpt: "a rough swallow, my heart pounds.",
@@ -21,13 +21,13 @@ const CONTENT = [
     image: ""
   },
   {
-    id: "film-noir-analysis",
-    type: "analysis",
-    title: "Shadows in Film Noir",
+    id: "pearly-whites",
+    type: "poem",
+    title: "pearly whites",
     thumb: "",
     size: "wide",
-    excerpt: "How lighting builds moral ambiguity on screen.",
-    body: "<p>Placeholder analysis text — replace with the full media analysis piece.</p><p>Second paragraph placeholder.</p>",
+    excerpt: "how is it",
+    body: "<p>how is it</p><p>that you could hate the people</p><p>who gave birth to you,</p><p>held you in their wombs,</p><p>nestled you close,</p><p>so you wouldn't feel cold</p><p>and with your hatred,</p><p>you kill them,</p><p>curse them,</p><p>and push them into the cold themselves</p><p>then, how could you claim to love them?</p>",
     image: ""
   },
   {
