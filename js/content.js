@@ -59,5 +59,35 @@ const CONTENT = [
     excerpt: "they laugh,",
     body: "<p>they laugh,</p><p>teeth flashing like sharks,</p><p>pearly white in the avarice-filled room.</p><p>they shouldn't.</p><p>their victory is that of cowards,</p><p>of those who hate their own.</p><p>love doesn't cross their minds,</p><p>only hatred and power.</p>",
     image: ""
+  },
+  {
+    id: "november-5th-2024",
+    type: "poem",
+    title: "november 5th, 2024",
+    thumb: "",
+    size: "small",
+    excerpt: "at the end of the day,",
+    body: "<p>at the end of the day,</p><p>the only victory for the wicked</p><p>is the death of the souls, joy, and liberty of the innocent.</p>",
+    image: ""
+  },
+  {
+    id: "sharp",
+    type: "poem",
+    title: "sharp",
+    thumb: "",
+    size: "small",
+    excerpt: "my skin parts",
+    body: "<p>my skin parts</p><p>under your harsh words,</p><p>the remnants of me dripping down</p><p>didn't you love me?</p>",
+    image: ""
+  },
+  {
+    id: "fireplace",
+    type: "poem",
+    title: "fireplace",
+    thumb: "",
+    size: "wide",
+    excerpt: "his laugh feels like coming home after i have had nothing for a lifetime.",
+    body: "<p>his laugh feels like coming home after i have had nothing for a lifetime. the shine in his eye reminds me of before i let life break me. his smile feels like an actual part of my heart, and his absence makes my heart hurt. why must it hurt so much, knowing he's wherever he is, doing better than i am? i should've died first. i should have. how can i live knowing he's not here? how can i live knowing it's not him im loving? i live for him, regardless of the fact that he's already gone.</p>",
+    image: ""
   }
 ];
