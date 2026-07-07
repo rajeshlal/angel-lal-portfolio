@@ -87,7 +87,7 @@ const CONTENT = [
     thumb: "",
     size: "wide",
     excerpt: "his laugh feels like coming home after i have had nothing for a lifetime.",
-    body: "<p>his laugh feels like coming home after i have had nothing for a lifetime. the shine in his eye reminds me of before i let life break me. his smile feels like an actual part of my heart, and his absence makes my heart hurt. why must it hurt so much, knowing he's wherever he is, doing better than i am? i should've died first. i should have. how can i live knowing he's not here? how can i live knowing it's not him im loving? i live for him, regardless of the fact that he's already gone.</p>",
+    body: "<p>his laugh feels like coming home after i have had nothing for a lifetime. the shine in his eye reminds me of before i let life break me. his smile feels like a part of my heart, and his absence makes my heart hurt.</p><p>why must it hurt so much, knowing he's wherever he is, doing better than i am? how can i live knowing he's not here? how can i live knowing it's not him im loving? i live for him, regardless of the fact that he's already</p><p>gone.</p>",
     image: ""
   }
 ];
